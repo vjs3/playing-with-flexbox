@@ -202,4 +202,10 @@ input::-moz-focus-inner {
   display: flex;
   border: 10px solid goldenrod;
   height: 100vh;
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 300px;
+  width: 33.3333%;
 }
